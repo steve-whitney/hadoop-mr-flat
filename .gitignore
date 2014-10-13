@@ -1,4 +1,6 @@
 nohup.out
 *.swp
-target/
 output/
+target/
+.idea/
+log/
